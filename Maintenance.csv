@@ -1,0 +1,375 @@
+ID,PlateNumber,Date,Troubles,ErrorCodes,Price,Methods
+1,53N-001,15/02/2024,Break system,-1,110,Replacement
+2,53N-001,16/03/2024,Transmission,-1,175,Replacement
+3,53N-001,15/04/2024,Suspected clutch,-1,175,Adjustment
+4,53N-001,15/05/2024,Ignition (finding),1,180,Adjustment
+5,53N-001,14/06/2024,Chassis,-1,85,Replacement
+6,53N-002,15/02/2024,Cylinders,1,1000,Replacement
+7,53N-002,16/03/2024,Ignition (finding),1,180,Adjustment
+8,53N-002,15/04/2024,No error,0,0,NA
+9,53N-003,16/04/2024,Loss of driving ability,-1,180,Urgent care
+10,53N-004,17/04/2024,Loss of driving ability,-1,180,Urgent care
+11,53N-004,18/05/2024,Suspected clutch,-1,175,Adjustment
+12,53N-004,18/06/2024,Ignition (finding),1,180,Adjustment
+13,53N-004,19/07/2024,Chassis,-1,85,Replacement
+14,53N-004,19/08/2024,Cylinders,1,1000,Replacement
+15,53N-005,20/08/2024,Noise (finding),1,10,Adjustment
+16,53N-006,21/08/2024,No error,0,0,NA
+17,53N-007,22/08/2024,Worn tires,-1,175,Replacement
+18,53N-008,19/01/2024,Ignition,1,180,Adjustment
+19,53N-008,19/03/2024,Chassis,-1,85,Replacement
+20,53N-008,19/05/2024,Cylinders,1,1000,Replacement
+21,53N-008,19/07/2024,Noise (finding),1,10,Adjustment
+22,53N-008,19/09/2024,No error,0,0,NA
+23,53N-008,19/11/2024,Worn tires,-1,175,Replacement
+24,53S-001,20/01/2024,Bearing,-1,50,Replacement
+25,53S-002,19/03/2024,Gear box (finding),-1,45,Replacement
+26,53S-002,19/05/2024,Oil filter,1,90,Replacement
+27,53S-002,19/07/2024,Front axe,-1,100,Replacement
+28,53S-002,19/09/2024,Crank shaft,1,350,Replacement
+29,53S-002,19/11/2024,Cam shaft,1,220,Replacement
+30,53S-003,21/06/2024,Steering wheel,-1,90,Replacement
+31,53S-004,19/04/2024,Pressure sensors,1,90,Replacement
+32,53S-004,19/06/2024,Pressure sensors,1,90,Replacement
+33,53S-005,01/02/2024,Crank shaft,1,350,Replacement
+34,53S-005,01/04/2024,Cam shaft,1,220,Replacement
+35,53S-005,01/06/2024,Steering wheel,-1,90,Replacement
+36,53S-006,01/01/2023,Cam shaft,1,220,Replacement
+37,53S-007,04/02/2023,Steering wheel,-1,90,Replacement
+38,53S-008,10/03/2023,Pressure sensors,1,90,Replacement
+39,53S-009,13/04/2023,Stroke,1,175,Replacement
+40,53S-010,17/05/2023,ECU's power,1,120,Adjustment
+41,53S-011,20/06/2023,Temperature sensors,1,175,Replacement
+42,53S-012,24/07/2023,Air conditioner,-1,125,Adjustment
+43,53S-013,27/08/2023,Suspected battery,1,175,Adjustment
+44,53S-014,30/09/2023,Brake fluild,-1,20,Urgent care
+45,53S-015,03/11/2023,Valve clearance,1,175,Adjustment
+46,53S-016,07/12/2023,Side slip,-1,90,Adjustment
+47,53S-017,10/01/2024,Painting,-1,90,Replacement
+48,53S-018,13/02/2024,Fans,1,55,Replacement
+49,53S-019,18/03/2024,O2 sensors,1,90,Replacement
+50,53S-020,21/04/2024,Real axe,-1,90,Replacement
+51,53S-021,25/05/2024,Pedals,1,90,Adjustment
+52,53S-022,28/06/2024,Suspension,-1,175,Adjustment
+53,53S-023,28/06/2024,Break system,-1,110,Replacement
+54,53S-023,21/07/2024,Break system,-1,110,Replacement
+55,53S-023,13/08/2024,Break system,-1,110,Replacement
+56,53S-023,05/09/2024,Break system,-1,110,Replacement
+57,53S-024,06/09/2024,Transmission,-1,175,Replacement
+58,59K-001,01/01/2023,Suspected clutch,-1,175,Adjustment
+59,59K-001,01/05/2023,Ignition (finding),1,180,Adjustment
+60,59K-001,01/09/2023,Chassis,-1,85,Replacement
+61,59K-001,01/01/2024,Cylinders,1,1000,Replacement
+62,59K-001,01/05/2024,Ignition (finding),1,180,Adjustment
+63,59K-002,01/05/2024,No error,0,0,NA
+64,59K-003,01/05/2024,Chassis,-1,85,Replacement
+65,59K-004,01/05/2024,Cylinders,1,1000,Replacement
+66,59K-005,01/05/2024,Ignition (finding),1,180,Adjustment
+67,59K-006,01/05/2024,No error,0,0,NA
+68,59K-007,01/05/2024,Loss of driving ability,-1,180,Urgent care
+69,59K-008,01/05/2024,Loss of driving ability,-1,180,Urgent care
+70,59K-009,01/05/2024,Suspected clutch,-1,175,Adjustment
+71,59K-010,01/05/2024,Ignition (finding),1,180,Adjustment
+72,59K-011,02/05/2024,Chassis,-1,85,Replacement
+73,59K-011,03/05/2024,Cylinders,1,1000,Replacement
+74,59K-011,01/06/2024,Noise (finding),1,10,Adjustment
+75,59K-011,30/06/2024,Cylinders,1,1000,Replacement
+76,59K-011,29/07/2024,Noise (finding),1,10,Adjustment
+77,59K-011,27/08/2024,No error,0,0,NA
+78,59K-012,27/08/2023,Cylinders,1,1000,Replacement
+79,59K-012,22/11/2023,Worn tires,-1,175,Replacement
+80,59K-012,17/02/2023,Ignition,1,180,Adjustment
+81,59K-012,18/05/2023,Noise (finding),1,10,Adjustment
+82,59K-012,16/08/2023,No error,0,0,NA
+83,59K-012,14/11/2023,Worn tires,-1,175,Replacement
+84,59K-012,12/02/2024,Ignition,1,180,Adjustment
+85,59K-012,12/05/2024,Chassis,-1,85,Replacement
+86,59K-013,13/05/2024,Cylinders,1,1000,Replacement
+87,59K-014,14/05/2024,No error,0,0,NA
+88,59K-015,15/05/2024,Worn tires,-1,175,Replacement
+89,59K-016,16/05/2024,Ignition,1,180,Adjustment
+90,59K-017,17/05/2024,Chassis,-1,85,Replacement
+91,59K-018,18/05/2024,Cylinders,1,1000,Replacement
+92,59K-019,19/05/2024,Noise (finding),1,10,Adjustment
+93,59K-020,20/05/2024,No error,0,0,NA
+94,59K-020,15/06/2024,Worn tires,-1,175,Replacement
+95,59K-020,11/07/2024,Bearing,-1,50,Replacement
+96,59K-020,06/08/2024,Gear box (finding),-1,45,Replacement
+97,59K-020,01/09/2024,Oil filter,1,90,Replacement
+98,59K-021,02/09/2024,Worn tires,-1,175,Replacement
+99,59K-022,03/09/2024,Bearing,-1,50,Replacement
+100,59K-023,04/09/2024,Gear box (finding),-1,45,Replacement
+101,59K-024,05/09/2024,Oil filter,1,90,Replacement
+102,59K-025,06/09/2024,Front axe,-1,100,Replacement
+103,59K-026,07/09/2024,Crank shaft,1,350,Replacement
+104,59K-027,08/09/2024,Cam shaft,1,220,Replacement
+105,59K-028,09/09/2024,Steering wheel,-1,90,Replacement
+106,59K-029,09/09/2023,Pressure sensors,1,90,Replacement
+107,59K-029,15/12/2023,Pressure sensors,1,90,Replacement
+108,59K-029,21/03/2024,Crank shaft,1,350,Replacement
+109,59K-029,26/06/2024,Cam shaft,1,220,Replacement
+110,59K-029,01/10/2024,Steering wheel,-1,90,Replacement
+111,59K-029,02/10/2024,Cam shaft,1,220,Replacement
+112,59K-030,21/03/2024,Cam shaft,1,220,Replacement
+113,59K-030,26/06/2024,Steering wheel,-1,90,Replacement
+114,59K-030,01/10/2024,Cam shaft,1,220,Replacement
+115,59K-031,01/05/2023,Crank shaft,1,350,Replacement
+116,59K-031,01/09/2023,Crank shaft,1,350,Replacement
+117,59K-031,01/02/2024,Cam shaft,1,220,Replacement
+118,59K-031,01/07/2024,Steering wheel,-1,90,Replacement
+119,59K-031,01/12/2024,Cam shaft,1,220,Replacement
+120,59K-031,02/12/2024,Cam shaft,1,220,Replacement
+121,59K-031,03/12/2024,Steering wheel,-1,90,Replacement
+122,59K-032,09/09/2023,ECU's power,1,120,Adjustment
+123,59K-032,15/12/2023,Temperature sensors,1,175,Replacement
+124,59K-032,21/03/2024,Air conditioner,-1,125,Adjustment
+125,59K-032,26/06/2024,Suspected battery,1,175,Adjustment
+126,59K-032,01/10/2024,Pressure sensors,1,90,Replacement
+127,59K-032,06/01/2025,Pressure sensors,1,90,Replacement
+128,59K-032,10/09/2023,ECU's power,1,120,Adjustment
+129,59K-033,11/10/2023,Temperature sensors,1,175,Replacement
+130,59K-034,11/11/2023,Air conditioner,-1,125,Adjustment
+131,59K-035,12/12/2023,Suspected battery,1,175,Adjustment
+132,59K-036,12/01/2024,Pressure sensors,1,90,Replacement
+133,59K-037,12/02/2024,Stroke,1,175,Replacement
+134,59K-038,14/03/2024,ECU's power,1,120,Adjustment
+135,59K-039,14/04/2024,Temperature sensors,1,175,Replacement
+136,59K-040,15/05/2024,Air conditioner,-1,125,Adjustment
+137,59K-041,15/06/2024,Suspected battery,1,175,Adjustment
+138,59K-042,16/07/2024,Brake fluild,-1,20,Urgent care
+139,59K-043,16/08/2024,Valve clearance,1,175,Adjustment
+140,59K-044,16/09/2024,Side slip,-1,90,Adjustment
+141,59K-045,17/10/2024,Painting,-1,90,Replacement
+142,59K-046,10/09/2023,Fans,1,55,Replacement
+143,59K-046,11/10/2023,Brake fluild,-1,20,Urgent care
+144,59K-046,11/11/2023,Valve clearance,1,175,Adjustment
+145,59K-046,12/12/2023,Side slip,-1,90,Adjustment
+146,59K-046,12/01/2024,Painting,-1,90,Replacement
+147,59K-047,13/01/2024,Fans,1,55,Replacement
+148,59K-048,14/01/2024,Real axe,-1,90,Replacement
+149,59K-049,15/01/2024,Pedals,1,90,Adjustment
+150,59K-050,16/01/2024,Suspension,-1,175,Adjustment
+151,59K-051,20/02/2024,Break system,-1,110,Replacement
+152,59K-051,26/03/2024,Transmission,-1,175,Replacement
+153,59K-051,30/04/2024,Suspected clutch,-1,175,Adjustment
+154,59K-051,04/06/2024,Ignition (finding),1,180,Adjustment
+155,59K-051,09/07/2024,Chassis,-1,85,Replacement
+156,59K-051,13/08/2024,Cylinders,1,1000,Replacement
+157,59K-051,17/09/2024,Ignition (finding),1,180,Adjustment
+158,59K-052,18/09/2024,Pressure sensors,1,90,Replacement
+159,59K-053,19/09/2024,ECU's power,1,120,Adjustment
+160,59K-054,20/09/2024,Temperature sensors,1,175,Replacement
+161,59K-055,21/09/2024,Air conditioner,-1,125,Adjustment
+162,59K-056,22/09/2024,Suspected battery,1,175,Adjustment
+163,59K-057,23/09/2024,Pressure sensors,1,90,Replacement
+164,59K-058,24/09/2024,Stroke,1,175,Replacement
+165,60N-001,01/05/2023,ECU's power,1,120,Adjustment
+166,60N-001,04/06/2023,Temperature sensors,1,175,Replacement
+167,60N-001,08/07/2023,Air conditioner,-1,125,Adjustment
+168,60N-001,11/08/2023,Suspected battery,1,175,Adjustment
+169,60N-001,14/09/2023,Brake fluild,-1,20,Urgent care
+170,60N-001,18/10/2023,Valve clearance,1,175,Adjustment
+171,60N-001,21/11/2023,Side slip,-1,90,Adjustment
+172,60N-001,25/12/2023,Painting,-1,90,Replacement
+173,60N-001,28/01/2024,Fans,1,55,Replacement
+174,60N-001,02/03/2024,Brake fluild,-1,20,Urgent care
+175,60N-001,05/04/2024,Valve clearance,1,175,Adjustment
+176,60N-001,09/05/2024,Side slip,-1,90,Adjustment
+177,60N-001,12/06/2024,Painting,-1,90,Replacement
+178,60N-001,16/07/2024,Fans,1,55,Replacement
+179,60N-001,19/08/2024,Real axe,-1,90,Replacement
+180,60N-001,22/09/2024,Pedals,1,90,Adjustment
+181,60N-002,28/01/2024,Suspension,-1,175,Adjustment
+182,60N-002,02/03/2024,Break system,-1,110,Replacement
+183,60N-002,05/04/2024,Suspected battery,1,175,Adjustment
+184,60N-002,09/05/2024,Brake fluild,-1,20,Urgent care
+185,60N-002,12/06/2024,Valve clearance,1,175,Adjustment
+186,60N-002,16/07/2024,Side slip,-1,90,Adjustment
+187,60N-003,19/08/2024,Painting,-1,90,Replacement
+188,60N-004,22/09/2024,Fans,1,55,Replacement
+189,60N-005,26/10/2024,Brake fluild,-1,20,Urgent care
+190,60N-006,29/11/2024,Valve clearance,1,175,Adjustment
+191,60N-007,02/01/2025,Side slip,-1,90,Adjustment
+192,60N-008,05/02/2025,Painting,-1,90,Replacement
+193,60N-009,05/02/2023,Fans,1,55,Replacement
+194,60N-009,05/03/2023,Brake fluild,-1,20,Urgent care
+195,60N-009,05/04/2023,Valve clearance,1,175,Adjustment
+196,60N-009,05/05/2023,Side slip,-1,90,Adjustment
+197,60N-009,05/06/2023,Painting,-1,90,Replacement
+198,60N-009,05/07/2023,Fans,1,55,Replacement
+199,60N-009,05/08/2023,Real axe,-1,90,Replacement
+200,60N-009,05/09/2023,Pedals,1,90,Adjustment
+201,60N-010,06/09/2023,Brake fluild,-1,20,Urgent care
+202,60N-011,07/09/2023,Valve clearance,1,175,Adjustment
+203,60N-012,08/09/2023,Side slip,-1,90,Adjustment
+204,60N-013,09/09/2023,Painting,-1,90,Replacement
+205,60N-014,10/09/2023,Fans,1,55,Replacement
+206,60N-015,11/09/2023,Real axe,-1,90,Replacement
+207,60N-016,12/09/2023,Pedals,1,90,Adjustment
+208,60N-017,13/09/2023,Suspension,-1,175,Adjustment
+209,60N-018,18/10/2023,Break system,-1,110,Replacement
+210,60N-019,22/11/2023,Transmission,-1,175,Replacement
+211,60N-019,27/12/2023,Brake fluild,-1,20,Urgent care
+212,60N-019,31/01/2024,Valve clearance,1,175,Adjustment
+213,60N-019,06/03/2024,Side slip,-1,90,Adjustment
+214,60N-019,10/04/2024,Painting,-1,90,Replacement
+215,60N-019,15/05/2024,Fans,1,55,Replacement
+216,60N-019,19/06/2024,Real axe,-1,90,Replacement
+217,60N-019,24/07/2024,Pedals,1,90,Adjustment
+218,60N-019,28/08/2024,Suspension,-1,175,Adjustment
+219,60N-019,02/10/2024,Break system,-1,110,Replacement
+220,60N-020,22/11/2023,Suspected clutch,-1,175,Adjustment
+221,60N-021,27/12/2023,Ignition (finding),1,180,Adjustment
+222,60N-022,27/12/2023,Chassis,-1,85,Replacement
+223,60N-023,27/12/2023,Cylinders,1,1000,Replacement
+224,60N-024,27/12/2023,Ignition (finding),1,180,Adjustment
+225,60N-025,27/12/2023,ECU's power,1,120,Adjustment
+226,60N-026,27/12/2023,Temperature sensors,1,175,Replacement
+227,60N-027,27/12/2023,Air conditioner,-1,125,Adjustment
+228,60N-028,27/12/2023,Suspected battery,1,175,Adjustment
+229,60N-029,16/02/2023,Brake fluild,-1,20,Urgent care
+230,60N-029,18/05/2023,Cylinders,1,1000,Replacement
+231,60N-029,17/08/2023,Ignition (finding),1,180,Adjustment
+232,60N-029,16/11/2023,ECU's power,1,120,Adjustment
+233,60N-029,15/02/2024,Temperature sensors,1,175,Replacement
+234,60N-029,16/05/2024,Air conditioner,-1,125,Adjustment
+235,60N-029,15/08/2024,Suspected battery,1,175,Adjustment
+236,60N-029,14/11/2024,Brake fluild,-1,20,Urgent care
+237,60N-030,14/11/2024,Valve clearance,1,175,Adjustment
+238,60N-031,14/11/2024,Side slip,-1,90,Adjustment
+239,60N-032,14/11/2024,Painting,-1,90,Replacement
+240,60N-033,14/11/2024,Fans,1,55,Replacement
+241,60N-034,14/11/2024,Brake fluild,-1,20,Urgent care
+242,60N-035,14/11/2024,Valve clearance,1,175,Adjustment
+243,60N-036,14/11/2024,Side slip,-1,90,Adjustment
+244,60N-037,14/11/2024,Painting,-1,90,Replacement
+245,60N-038,14/11/2023,Fans,1,55,Replacement
+246,60N-038,10/02/2024,Valve clearance,1,175,Adjustment
+247,60N-038,08/05/2024,Side slip,-1,90,Adjustment
+248,60N-038,04/08/2024,Painting,-1,90,Replacement
+249,60N-039,14/01/2023,Real axe,-1,90,Replacement
+250,60N-039,10/03/2023,Valve clearance,1,175,Adjustment
+251,60N-039,04/05/2023,Side slip,-1,90,Adjustment
+252,60N-039,28/06/2023,Painting,-1,90,Replacement
+253,60N-039,22/08/2023,Fans,1,55,Replacement
+254,60N-039,16/10/2023,Valve clearance,1,175,Adjustment
+255,60N-039,10/12/2023,Side slip,-1,90,Adjustment
+256,60N-039,03/02/2024,Painting,-1,90,Replacement
+257,60N-039,29/03/2024,Real axe,-1,90,Replacement
+258,60N-040,29/03/2024,Pedals,1,90,Adjustment
+259,60N-041,29/03/2024,Suspension,-1,175,Adjustment
+260,60N-042,29/03/2024,Break system,-1,110,Replacement
+261,60N-043,29/03/2024,Transmission,-1,175,Replacement
+262,60N-044,29/03/2024,Suspected clutch,-1,175,Adjustment
+263,60N-045,29/03/2024,Ignition (finding),1,180,Adjustment
+264,60N-046,29/03/2024,Chassis,-1,85,Replacement
+265,60N-047,29/03/2024,Cylinders,1,1000,Replacement
+266,60N-048,29/03/2024,Ignition (finding),1,180,Adjustment
+267,60N-049,29/03/2024,No error,0,0,NA
+268,60N-050,29/03/2024,Chassis,-1,85,Replacement
+269,60N-051,29/03/2024,Cylinders,1,1000,Replacement
+270,60N-051,22/04/2024,Chassis,-1,85,Replacement
+271,60N-051,16/05/2024,Cylinders,1,1000,Replacement
+272,60N-051,09/06/2024,Noise (finding),1,10,Adjustment
+273,60N-051,03/07/2024,Cylinders,1,1000,Replacement
+274,60N-051,27/09/2024,Noise (finding),1,10,Adjustment
+275,60N-051,22/12/2024,No error,0,0,NA
+276,60N-051,12/03/2025,Cylinders,1,1000,Replacement
+277,60N-052,13/03/2023,Worn tires,-1,175,Replacement
+278,60N-052,16/06/2023,No error,0,0,NA
+279,60N-052,19/09/2023,Loss of driving ability,-1,180,Urgent care
+280,60N-052,23/12/2023,Loss of driving ability,-1,180,Urgent care
+281,60N-052,27/03/2024,Suspected clutch,-1,175,Adjustment
+282,60N-052,30/06/2024,Ignition (finding),1,180,Adjustment
+283,60N-052,03/10/2024,Chassis,-1,85,Replacement
+284,60N-053,03/10/2024,No error,0,0,NA
+285,60N-054,03/10/2024,Loss of driving ability,-1,180,Urgent care
+286,60N-055,03/10/2024,Loss of driving ability,-1,180,Urgent care
+287,60N-056,03/10/2024,Suspected clutch,-1,175,Adjustment
+288,60N-057,03/10/2024,Ignition (finding),1,180,Adjustment
+289,60N-058,03/10/2024,Chassis,-1,85,Replacement
+290,60N-059,03/10/2024,Cylinders,1,1000,Replacement
+291,60N-060,03/10/2024,Noise (finding),1,10,Adjustment
+292,60N-061,03/10/2024,Cylinders,1,1000,Replacement
+293,60N-062,03/10/2024,Noise (finding),1,10,Adjustment
+294,60N-063,03/04/2023,No error,0,0,NA
+295,60N-063,04/06/2023,Cylinders,1,1000,Replacement
+296,60N-063,05/08/2023,Ignition (finding),1,180,Adjustment
+297,60N-063,06/10/2023,No error,0,0,NA
+298,60N-063,07/12/2023,Chassis,-1,85,Replacement
+299,60N-064,03/04/2023,Cylinders,1,1000,Replacement
+300,60N-064,04/06/2023,Noise (finding),1,10,Adjustment
+301,60N-064,05/09/2023,No error,0,0,NA
+302,60N-064,07/12/2023,Cylinders,1,1000,Replacement
+303,60N-064,09/03/2024,Worn tires,-1,175,Replacement
+304,60N-065,07/12/2023,Worn tires,-1,175,Replacement
+305,60N-066,07/12/2023,Ignition,1,180,Adjustment
+306,60N-067,07/12/2023,Noise (finding),1,10,Adjustment
+307,60N-068,07/12/2023,No error,0,0,NA
+308,60N-069,07/12/2023,Worn tires,-1,175,Replacement
+309,60N-070,07/12/2023,Ignition,1,180,Adjustment
+310,60N-071,07/12/2023,Chassis,-1,85,Replacement
+311,60N-072,07/12/2023,Cylinders,1,1000,Replacement
+312,60N-073,07/12/2023,No error,0,0,NA
+313,60N-074,07/12/2023,Worn tires,-1,175,Replacement
+314,60N-075,07/12/2023,No error,0,0,NA
+315,60N-075,08/01/2024,Loss of driving ability,-1,180,Urgent care
+316,60N-075,09/02/2024,Suspected clutch,-1,175,Adjustment
+317,60N-075,12/03/2024,Ignition (finding),1,180,Adjustment
+318,60N-076,07/12/2023,Chassis,-1,85,Replacement
+319,60N-076,08/01/2024,No error,0,0,NA
+320,60N-076,09/02/2024,Loss of driving ability,-1,180,Urgent care
+321,60N-076,12/03/2024,Suspected clutch,-1,175,Adjustment
+322,60N-077,12/03/2024,Ignition (finding),1,180,Adjustment
+323,60N-078,12/03/2024,Chassis,-1,85,Replacement
+324,60N-079,12/03/2024,No error,0,0,NA
+325,60N-080,12/03/2024,Loss of driving ability,-1,180,Urgent care
+326,60N-081,12/03/2024,Loss of driving ability,-1,180,Urgent care
+327,60N-082,12/03/2024,Suspected clutch,-1,175,Adjustment
+328,60N-083,12/03/2024,Ignition (finding),1,180,Adjustment
+329,60N-084,08/01/2024,Chassis,-1,85,Replacement
+330,60N-084,09/02/2024,Cylinders,1,1000,Replacement
+331,60N-084,12/03/2024,Noise (finding),1,10,Adjustment
+332,60N-084,13/04/2024,No error,0,0,NA
+333,60N-084,15/05/2024,Cylinders,1,1000,Replacement
+334,60N-084,16/06/2024,Worn tires,-1,175,Replacement
+335,60N-085,17/06/2024,Cylinders,1,1000,Replacement
+336,60N-085,18/06/2024,Cylinders,1,1000,Replacement
+337,60N-086,19/06/2024,Noise (finding),1,10,Adjustment
+338,60N-087,20/06/2024,Cylinders,1,1000,Replacement
+339,60N-088,21/06/2024,Noise (finding),1,10,Adjustment
+340,60N-089,22/06/2024,No error,0,0,NA
+341,60N-090,23/06/2024,Cylinders,1,1000,Replacement
+342,60N-091,24/06/2024,Worn tires,-1,175,Replacement
+343,60N-092,25/06/2024,Ignition,1,180,Adjustment
+344,60N-093,26/06/2024,Noise (finding),1,10,Adjustment
+345,60N-094,27/06/2024,No error,0,0,NA
+346,60N-095,28/06/2024,Worn tires,-1,175,Replacement
+347,60N-096,29/06/2024,Ignition,1,180,Adjustment
+348,60N-097,30/06/2024,Chassis,-1,85,Replacement
+349,60N-098,01/07/2024,Cylinders,1,1000,Replacement
+350,60N-099,27/06/2024,No error,0,0,NA
+351,60N-099,28/06/2024,Worn tires,-1,175,Replacement
+352,60N-099,29/06/2024,Ignition,1,180,Adjustment
+353,60N-099,30/06/2024,Chassis,-1,85,Replacement
+354,60N-099,01/07/2024,Cylinders,1,1000,Replacement
+355,60N-100,02/07/2024,No error,0,0,NA
+356,60N-101,03/07/2024,No error,0,0,NA
+357,60N-102,04/07/2024,Chassis,-1,85,Replacement
+358,60N-103,05/07/2024,Cylinders,1,1000,Replacement
+359,60N-104,06/07/2024,Ignition (finding),1,180,Adjustment
+360,60N-105,07/07/2024,No error,0,0,NA
+361,60N-106,08/07/2024,Loss of driving ability,-1,180,Urgent care
+362,60N-107,09/07/2024,Loss of driving ability,-1,180,Urgent care
+363,60N-108,10/07/2024,Suspected clutch,-1,175,Adjustment
+364,60N-108,11/09/2024,Chassis,-1,85,Replacement
+365,60N-108,13/11/2024,Cylinders,1,1000,Replacement
+366,60N-109,14/11/2023,Ignition (finding),1,180,Adjustment
+367,60N-109,15/02/2024,Chassis,-1,85,Replacement
+368,60N-109,18/05/2024,Cylinders,1,1000,Replacement
+369,60N-109,19/08/2024,Noise (finding),1,10,Adjustment
+370,60N-110,20/08/2024,Cylinders,1,1000,Replacement
+371,60N-111,21/08/2024,Cylinders,1,1000,Replacement
+372,60N-112,22/08/2024,Noise (finding),1,10,Adjustment
+373,60N-113,23/08/2024,Cylinders,1,1000,Replacement
+374,60N-114,24/08/2024,Noise (finding),1,10,Adjustment
