@@ -853,7 +853,7 @@ result
   
 ```
 
-## 4
+## Part 4
 ### 4.a. Error type (ErrorCodes) occurs most frequently
 
 **Rationale**
@@ -941,3 +941,18 @@ The case of adjustment for other vehicle components fails is 43. Regarding the e
 
 Overall, the urgent care is the rarest case for all engine types.
 From the table, 'ohc' is the engine type that is the most common in the maintenance method, which means it can suffer more errors than other engine types. Its values for adjustment, replacement, and urgent care cases are 96, 148, and 21, respectively. Whereas 'rotor' might be a good engine type, because it has the smallest total number of maintenance method cases, only 8 cases. The engine with the second-lowest maintenance cases is 'dohcv' with only nine cases. The 'dohcv' and 'rotor' are good choices for Engine Type as they require little maintenance.
+
+## Part 5
+
+The Git code was writen in R using Terminal view, the Git code is shown below.
+
+```{r, eval = FALSE}
+git status
+git add Project.R "Project Trimester 2 2025.Rmd" Engine.csv 
+              Maintenance.csv Automobile.csv "Le Hong Thanh Tu_22166855_AP1.pdf"
+git commit -m "22166855_Le-Hong-Thanh-Tu_AP1_Ass2"
+git push
+git remote add origin https://github.com/22002418-thanhtu/22166855_Le-Hong-Thanh-Tu_AP1_Ass2
+git branch -M main
+git push -u origin main
+```
